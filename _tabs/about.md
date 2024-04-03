@@ -8,7 +8,7 @@ order: 4
 {: .prompt-info }
 
 
-# Education
+### Education
 
 **(2019 - Current) Korea Advanced Institute of Science and Technology (KAIST)**
 - Ph.D candidate, Department of Bio and Brain engineering
@@ -20,27 +20,39 @@ order: 4
 
 **(2009 - 2016) Pohang University of Science and Technology (POSTECH)**
 - Bachelor of Science, Department of Life-Sciences
-- Double major: Electrical Engineering
+- Bachelor of Engineering, Department of Electrical Engineering (Double major)
 - Advisor: Prof. Joung-Hun Kim
 
 **(2007 - 2009) Jeonnam Science High School**
 - Early graduation with excellence
 
+---
+
+### Publications
+- (will be added)
+- (will be added)
 
 ---
 
-# Research experience
-
-
----
-
-# Research interests
-
+### Academic interests
+- eXplainable AI (XAI), scientific machine learning (SciML)
+- Network science, network control theory
+- Systems biology, reverse-aging
 
 ---
 
-# Honors & awards
+### Skills & research experiences
+- (will be added)
+- (will be added)
 
 ---
 
-# Extracurricular activities
+### Honors & awards
+- 제29회 카이스트 문학상 수필 및 평론부문 당선작
+- (will be added)
+
+---
+
+### Extracurricular activities
+- IT Team leader, Laboratory of Systems biology and Bio-inspired Engineering, KAIST
+- (will be added)
