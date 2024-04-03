@@ -4,7 +4,7 @@ pin: true
 
 ### BioRxiv, Arxiv
 BioRxiv (all categories)\
-Arxiv (q-bio only)\
+Arxiv (q-bio only)
 
 ### IEEE Xplore
 (None)
@@ -16,7 +16,7 @@ Current Opinion in Biotechnology\
 Current Opinion in Cell Biology\
 Current Opinion in Neurobiology\
 Current Opinion in Systems Biology\
-The Lancet Healthy Longevity\
+The Lancet Healthy Longevity
 
 ### Nature publishing group
 Nature\
@@ -52,7 +52,7 @@ npj Aging and Mechanisms of Disease\
 npj Quantum Information\
 Scientific Data\
 Scientific Reports\
-Communications Biology\
+Communications Biology
 
 ### Cell Press
 Cancer Cell\
@@ -72,52 +72,58 @@ Trends in Immunology\
 Trends in Molecular Medicine\
 Trends in Neurosciences\
 iScience\
-Patterns\
+Patterns
 
 ### AAAS Science
 Science\
 Science Signaling\
 Science Translational Medicine\
 Science Advances\
-Science Immunology\
+Science Immunology
 
 ### APS Physics
 Physical Review letters\
 PRX Life\
 PRX Quantum\
-Reviews of Modern physics\
+Reviews of Modern physics
 
 ### PLOS
 PLOS Biology\
 PLOS Computational Biology\
 PLOS Genetics\
-PLOS Medicine\
+PLOS Medicine
 
 ### PNAS
-PNAS\
+PNAS
 
 ### Journal of neuroscience
-Journal of Neuroscience\
+Journal of Neuroscience
 
 ### Wiley Online Library
-Aging Cell\
+Aging Cell
 
 ### EMBO press
-(none)\
+(none)
 
 ### Oxford academic
 Bioinformatics\
 Bioinformatics Advances\
-Briefings in Bioinformatics\
+Briefings in Bioinformatics
 
 ### AIP Publishing
-Chaos: An Interdisciplinary Journal of Nonlinear Science\
+Chaos: An Interdisciplinary Journal of Nonlinear Science
 
 ### MIT Press
-Network neuroscience\
+Network neuroscience
 
 ### ROYAL SOCIETY PUBLISHING
-(None)\
+(None)
 
 ### SIAM
-(None)\
+(None)
+
+### Newsletters
+SAMSUNG SDS Corp.\
+LG CNS Corp.\
+SK C&C Corp.\
+BCG Seoul
