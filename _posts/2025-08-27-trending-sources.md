@@ -1,8 +1,10 @@
 ---
+title: [Pinned] Trending sources
+description: this will be updated regularly
 pin: true
 ---
 
-> 아래의 목록은 trending을 작성할 때 참고하고 있는 저널 및 뉴스레터에 대한 내용입니다.
+> 아래의 목록은 참고하고 있는 저널 및 뉴스레터에 대한 내용입니다.
 {: .prompt-info }
 
 > Paper review는 다음의 블로그를 추천합니다: [박사과정 장성훈의 블로그](https://blog.naver.com/imogold)
