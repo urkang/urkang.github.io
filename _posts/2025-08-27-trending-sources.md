@@ -1,6 +1,5 @@
 ---
 title: Trending sources
-description: this will be updated regularly
 pin: true
 ---
 
