@@ -1,14 +1,14 @@
 ---
-title: 에이전틱 워크포스(Agentic Workforce) - 실행 주체로서의 AI와 기업용 풀스택 전략
+title: (Trend) 에이전틱 워크포스(Agentic Workforce) - 실행 주체로서의 AI와 기업용 풀스택 전략
 pin: false
 ---
 
-> 원문 링크는 다음과 같습니다: [원문 링크](https://www.samsungsds.com/kr/insights/the-rise-of-the-agentic-workfoce.html)
+> 원문 링크는 다음과 같습니다: [Agentic Workforce 시대의 기업 전략](https://www.samsungsds.com/kr/insights/the-rise-of-the-agentic-workfoce.html)
 {: .prompt-info }
 
 ## I. 게시글의 정보
 - 발행기관: 삼성SDS
-- 발행일자: 2024년 04월 08일
+- 발행일자: 2026년 04월 08일
 - 작성주체: 최성철 (IT트렌드 전문가)
 
 ## II. 주요 내용 요약
