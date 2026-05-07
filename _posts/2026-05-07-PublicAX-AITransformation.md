@@ -1,5 +1,5 @@
 ---
-title: 공공 AX 전략: 사례 중심의 행정 혁신과 성공적인 실행 과제
+title: 공공 AX 전략 - 사례 중심의 행정 혁신과 성공적인 실행 과제
 description: 공공 부문의 AI 전환(AX)은 행정 효율성을 극대화하고 국민 체감형 서비스를 창출하기 위해 데이터 주권과 보안이 확보된 인프라 위에서 지능형 거버넌스를 정립하는 과정이다.
 tags: [ax, ai transformation, digital platform government, llm, gpu infrastructure, cloud-native, data governance, sovereign ai, rag, ai orchestration]
 pin: false
